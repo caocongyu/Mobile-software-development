@@ -1,0 +1,20 @@
+{
+  "projectname": "%E5%AE%9E%E9%AA%8C4%EF%BC%9A%E9%AB%98%E6%A0%A1%E6%96%B0%E9%97%BB%E7%BD%91",
+  "setting": {
+    "compileHotReLoad": true
+  },
+  "description": "项目私有配置文件。此文件中的内容将覆盖 project.config.json 中的相同字段。项目的改动优先同步到此文件中。详见文档：https://developers.weixin.qq.com/miniprogram/dev/devtools/projectconfig.html",
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "detail",
+          "pathName": "pages/detail/detail",
+          "query": "",
+          "launchMode": "default",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

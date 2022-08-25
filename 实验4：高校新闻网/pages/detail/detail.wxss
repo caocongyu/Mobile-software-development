@@ -1,0 +1,27 @@
+.container{
+  padding: 15rpx;
+  text-align: center;
+}
+.title{
+  font-size: 14pt;
+  line-height: 80rpx;
+}
+.content{
+  text-align: left;
+  font-size: 12pt;
+  line-height: 6-rpx;
+}
+.add_date{
+  font-size: 14pt;
+  line-height: rpx;
+  text-align: left;
+margin-top: 20rpx;
+margin-right: 25rpx;
+}
+
+/*“点击收藏”按钮*/
+button{
+  width: 250rpx;
+  height: 100rpx;
+  margin: 20rpx auto;
+}
